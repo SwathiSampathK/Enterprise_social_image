@@ -41,6 +41,8 @@ To enhance the prediction of stock market trends by incorporating:
   - Logistic Regression
   - ANN (Neural Network)
 - Target: Buy/Sell signal prediction
+- 
+![Workflow](images/Fig%205.1%20Sentiment%20analysis%20and%20prediction%20with%20twitter%20data.png)
 
 ---
 
@@ -50,6 +52,7 @@ To enhance the prediction of stock market trends by incorporating:
 - Machine learning models trained on combined sentiment and stock data yielded improved prediction accuracy.
 - Network-wide sentiment (from collaborators/competitors) enhanced the model’s context-awareness.
 
+![Predicted Trend](images/Fig%206.8%20Machine%20learning%20models%20predicted%20trend%20of%20sentiment%20of%20OpenAI%20vs%20stock%20of%20Microsoft.png)
 ---
 
 ## Tech Stack
@@ -96,5 +99,6 @@ Swathi S., Siji Rani S. (2025). "Influence of an Enterprise’s Social Image on 
 ## Citation
 
 If you use this work, please cite:
+
 
 
